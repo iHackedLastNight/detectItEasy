@@ -2,6 +2,8 @@
 
 
 ![image](https://github.com/rootL0r/detectItEasy/assets/157466888/1e22772b-3127-48b2-9a50-61c63229ee77)
+
+
 **Detect It Easy**, or abbreviated "DIE" is a program for determining types of files.
 
 DIE is a cross-platform application, apart from Windows version there are also

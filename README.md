@@ -1,7 +1,7 @@
 # DetectItEasy
 
 
-![image](https://github.com/rootL0r/detectItEasy/assets/157466888/1e22772b-3127-48b2-9a50-61c63229ee77)
+![image](https://github.com/rootL0r/detectItEasy/assets/157466888/b722bbe8-b04e-498a-a240-051f1f01e01c)
 
 
 **Detect It Easy**, or abbreviated "DIE" is a program for determining types of files.
